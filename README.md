@@ -1,4 +1,5 @@
 # 🎹 Piano-virtual
+Um piano virtual, para praticar o uso de Html, CSS e Java Script
 
 ## 📑 Descrição do Projeto 
  Projeto feito na trilha Potência Tech iFood - Desenvolvimento de Jogos. O Objetivo do projeto é Criar um piano virtual, para praticar o uso de Html, CSS e Java Script. 
